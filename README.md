@@ -8,7 +8,7 @@
 
 Edit - Project Setting - Physics 中，为了不让苹果和苹果树产生碰撞，应按图中设置：
 
-![](images/Img_0.png)
+![](img/Img_0.png)
 
 ---
 
